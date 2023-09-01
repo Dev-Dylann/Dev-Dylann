@@ -10,7 +10,7 @@ I'm a newbie Front-End Developer from Nigeria
 
 - 🌍 Based in Lagos
 - 👨‍🎓 Student at Lagos State University
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on fun side projects
 
 ---
