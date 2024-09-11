@@ -5,10 +5,11 @@
   
 ---
 
-## I'm a Frontend Developer and aspiring Fullstack Developer  
+## I'm a self-taught Frontend Web Developer 
 
 - 👨‍💻 I currently work with JavaScript/Typescript, React, Next etc.
 - 📚 I’m currently learning about backend development with Node JS.
+- 👯 I’m open to collaborations.
 - 💪🏼 Future Goals: Understand JavaScript like the back of my hand 🌚.
 - ⚡ Fun fact: I love to watch anime and and play racing games.
 
